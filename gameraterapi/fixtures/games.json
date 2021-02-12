@@ -1,6 +1,6 @@
 [
     {
-        "model": "levelupapi.game",
+        "model": "gameraterapi.game",
         "pk": 1,
         "fields": {
             "rater_id": 1,
@@ -14,7 +14,7 @@
         }
     },
     {
-        "model": "levelupapi.game",
+        "model": "gameraterapi.game",
         "pk": 2,
         "fields": {
             "rater_id": 2,
@@ -28,7 +28,7 @@
         }
     },
     {
-        "model": "levelupapi.game",
+        "model": "gameraterapi.game",
         "pk": 3,
         "fields": {
             "rater_id": 1,
