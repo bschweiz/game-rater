@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.gamecategories",
+        "pk": 1,
+        "fields": {
+            "game_id": 1,
+            "category_id": 1
+        }
+    },
+    {
+        "model": "levelupapi.gamecategories",
+        "pk": 2,
+        "fields": {
+            "game_id": 1,
+            "category_id": 3
+        }
+    },
+    {
+        "model": "levelupapi.gamecategories",
+        "pk": 3,
+        "fields": {
+            "game_id": 1,
+            "category_id": 2
+        }
+    }
+]

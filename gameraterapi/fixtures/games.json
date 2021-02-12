@@ -1,0 +1,43 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "rater_id": 1,
+            "title": "Ghost of Tsushima",
+            "description": "Ninja assasin meets action adventure RPG.",
+            "designer": "Sucker Punch Productions",
+            "year": 2020,
+            "player_count": 1,
+            "duration": 60,
+            "age": 18
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "rater_id": 2,
+            "title": "Skater XL",
+            "description": "Immersive street skateboarding simulator.",
+            "designer": "Easy Productions",
+            "year": 2020,
+            "player_count": 1,
+            "duration": 15,
+            "age": 12
+        }
+    },
+    {
+        "model": "levelupapi.game",
+        "pk": 3,
+        "fields": {
+            "rater_id": 1,
+            "title": "Ghost of Tsushima",
+            "description": "Ninja assasin meets action adventure RPG.",
+            "designer": "Sucker Punch Productions",
+            "year": 2020,
+            "player_count": 1,
+            "duration": 60,
+            "age": 18        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "model": "levelupapi.rater",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "Bobbo"
+        }
+    },
+    {
+        "model": "levelupapi.rater",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "900 Man"
+        }
+    },
+    {
+        "model": "levelupapi.rater",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "STEVE-O"
+        }
+    }
+]
